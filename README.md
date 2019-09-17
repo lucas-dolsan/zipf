@@ -22,4 +22,5 @@ sed:270
 ```
 
 ```py plot_zipf.py output_lorem_ipsum.csv```
-plots the .csv contents on a graph
+plots the .csv contents on a graph as shown below:
+![alt text](https://i.ibb.co/HBvkhx4/lorem-ipsum-plot-output.png)
