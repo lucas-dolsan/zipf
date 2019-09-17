@@ -1,5 +1,5 @@
 # zipf
-reads a text files and counts the amount of times every word shows up
+reads a text file and counts the amount of times every word shows up
 
 ```py zipf.py lorem_ipsum.txt```
 outputs a file called ```output_lorem_ipsum.csv```
