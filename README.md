@@ -1,5 +1,5 @@
 # zipf
-reads a text file and counts the amount of times every word shows up, sorted by order of appearence
+naive implementation that reads a text file and counts the amount of times every word shows up, sorted by order of appearence
 
 ```py zipf.py lorem_ipsum.txt```
 outputs a file called ```output_lorem_ipsum.csv```
